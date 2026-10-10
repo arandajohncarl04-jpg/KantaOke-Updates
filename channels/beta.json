@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "beta",
   "release": {
-    "versionCode": 45,
-    "versionName": "1.0.3 - Library Categories",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.3-beta.27/KantaOke-v1.0.3-build14-signed.apk",
-    "sha256": "d93a7cf6487375e7d789c7067fcf50c72bb6171557d580985467111e28b004a3",
-    "sizeBytes": 7126760,
-    "notes": "Format categories and A-Z browsing for MIDI/KAR, MP3, MTV and CDG in portrait and landscape Library."
+    "versionCode": 48,
+    "versionName": "1.0.4.2 - Fresh Queue (Build 15.2)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.2-beta.34/KantaOke-v1.0.4.2-build15.2-signed.apk",
+    "sha256": "1cec1377afcecb6646d997779a61e9532880c47fae0f9fb77b5b3409d64e53e1",
+    "sizeBytes": 7143160,
+    "notes": "Build 15.2: direct SF2 reading with fallback and seamless switching; storage diagnostics; improved CAN and fresh-session reservation cleanup. TV-specific SF2 feedback welcome."
   }
 }
