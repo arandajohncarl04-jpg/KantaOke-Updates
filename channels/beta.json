@@ -1,5 +1,12 @@
 {
   "schema": 1,
   "channel": "beta",
-  "release": null
+  "release": {
+    "versionCode": 45,
+    "versionName": "1.0.3 - Library Categories",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.3-beta.27/KantaOke-v1.0.3-build14-signed.apk",
+    "sha256": "d93a7cf6487375e7d789c7067fcf50c72bb6171557d580985467111e28b004a3",
+    "sizeBytes": 7126760,
+    "notes": "Format categories and A-Z browsing for MIDI/KAR, MP3, MTV and CDG in portrait and landscape Library."
+  }
 }
