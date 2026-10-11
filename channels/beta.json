@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "beta",
   "release": {
-    "versionCode": 48,
-    "versionName": "1.0.4.2 - Fresh Queue (Build 15.2)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.2-beta.34/KantaOke-v1.0.4.2-build15.2-signed.apk",
-    "sha256": "1cec1377afcecb6646d997779a61e9532880c47fae0f9fb77b5b3409d64e53e1",
+    "versionCode": 49,
+    "versionName": "1.0.4.3 - Remote Sync (Build 15.3)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.3-beta.36/KantaOke-v1.0.4.3-build15.3-signed.apk",
+    "sha256": "f34021a07e035777526d80959d674d23d8fc0cc8f359ac56593d5d99e044c78b",
     "sizeBytes": 7143160,
-    "notes": "Build 15.2: direct SF2 reading with fallback and seamless switching; storage diagnostics; improved CAN and fresh-session reservation cleanup. TV-specific SF2 feedback welcome."
+    "notes": "Build 15.3: paginated Remote library A-Z/category browsing; MIDI tempo and reverb two-way sync; Build 15.2 SF2, queue, storage and TV fixes preserved."
   }
 }
