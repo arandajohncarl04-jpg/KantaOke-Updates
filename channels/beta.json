@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "beta",
   "release": {
-    "versionCode": 49,
-    "versionName": "1.0.4.3 - Remote Sync (Build 15.3)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.3-beta.36/KantaOke-v1.0.4.3-build15.3-signed.apk",
-    "sha256": "f34021a07e035777526d80959d674d23d8fc0cc8f359ac56593d5d99e044c78b",
-    "sizeBytes": 7143160,
-    "notes": "Build 15.3: paginated Remote library A-Z/category browsing; MIDI tempo and reverb two-way sync; Build 15.2 SF2, queue, storage and TV fixes preserved."
+    "versionCode": 52,
+    "versionName": "1.0.4.5 - Instant Voice & Background Toggle (Build 15.5)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.5-beta.42/KantaOke-v1.0.4.5-build15.5-signed.apk",
+    "sha256": "a1faaeea07c06bcc4a44cee7b067610835541312ea53336e2414b3744b06ceda",
+    "sizeBytes": 7143176,
+    "notes": "Build 15.5: immediate number voices with MediaPlayer fallback; Background Playback ON/OFF. Preserves gold idle UI, Remote Sync, direct SF2, queue and TV/projector support."
   }
 }
