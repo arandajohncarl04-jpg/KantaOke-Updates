@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "beta",
   "release": {
-    "versionCode": 52,
-    "versionName": "1.0.4.5 - Instant Voice & Background Toggle (Build 15.5)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.5-beta.42/KantaOke-v1.0.4.5-build15.5-signed.apk",
-    "sha256": "a1faaeea07c06bcc4a44cee7b067610835541312ea53336e2414b3744b06ceda",
-    "sizeBytes": 7143176,
-    "notes": "Build 15.5: immediate number voices with MediaPlayer fallback; Background Playback ON/OFF. Preserves gold idle UI, Remote Sync, direct SF2, queue and TV/projector support."
+    "versionCode": 53,
+    "versionName": "1.0.4.6 - Web Remote (Build 15.6)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.6-beta.44/KantaOke-v1.0.4.6-build15.6-signed.apk",
+    "sha256": "2aa371f4f053bd15cbada9a17a65b338788d83ab7887c2d81fa336fe05ecfa64",
+    "sizeBytes": 7150697,
+    "notes": "Build 15.6: iPhone Safari Web Remote via Main App QR (local Wi-Fi, no iPhone app installation); retains instant number voices, Background Playback toggle, Remote Sync, SF2, queue and TV/projector fixes."
   }
 }
