@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "beta",
   "release": {
-    "versionCode": 55,
-    "versionName": "1.0.4.8 - Lyrics and BGV Controls (Build 15.7)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.8-beta.46/KantaOke-v1.0.4.8-build15.7-signed.apk",
-    "sha256": "91970e6db5f7a37b2142ba57169a22339207e601bf621af75baa46c3f7dd5a41",
-    "sizeBytes": 7167977,
-    "notes": "Build 15.7: adjustable MIDI/KAR lyrics, BGV prev/next/on-off, grouped Settings and Library Maintenance; preserves Build 15.6 Safari Web Remote, instant number voice and Background Playback."
+    "versionCode": 56,
+    "versionName": "1.0.4.9 - Auto Random and Play Random (Build 15.8)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.9-beta.48/KantaOke-v1.0.4.9-build15.8-signed.apk",
+    "sha256": "2b9a20ab3b2cdd896bfc9ba4493034fa4b260b62e00038374ecc1362b39eae1f",
+    "sizeBytes": 7168169,
+    "notes": "Build 15.8: Play Random and Auto Random after reservations finish; preserves Build 15.7 Lyrics/BGV/Library Maintenance and Build 15.6 Safari Web Remote, instant number voice and Background Playback."
   }
 }
