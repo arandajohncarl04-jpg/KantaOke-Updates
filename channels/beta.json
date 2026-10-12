@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "beta",
   "release": {
-    "versionCode": 53,
-    "versionName": "1.0.4.6 - Web Remote (Build 15.6)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.6-beta.44/KantaOke-v1.0.4.6-build15.6-signed.apk",
-    "sha256": "2aa371f4f053bd15cbada9a17a65b338788d83ab7887c2d81fa336fe05ecfa64",
-    "sizeBytes": 7150697,
-    "notes": "Build 15.6: iPhone Safari Web Remote via Main App QR (local Wi-Fi, no iPhone app installation); retains instant number voices, Background Playback toggle, Remote Sync, SF2, queue and TV/projector fixes."
+    "versionCode": 55,
+    "versionName": "1.0.4.8 - Lyrics and BGV Controls (Build 15.7)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.8-beta.46/KantaOke-v1.0.4.8-build15.7-signed.apk",
+    "sha256": "91970e6db5f7a37b2142ba57169a22339207e601bf621af75baa46c3f7dd5a41",
+    "sizeBytes": 7167977,
+    "notes": "Build 15.7: adjustable MIDI/KAR lyrics, BGV prev/next/on-off, grouped Settings and Library Maintenance; preserves Build 15.6 Safari Web Remote, instant number voice and Background Playback."
   }
 }
