@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "beta",
   "release": {
-    "versionCode": 57,
-    "versionName": "1.0.5.0 - Automatic OTA Update Notifications (Build 15.9)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.0-beta.50/KantaOke-v1.0.5.0-build15.9-signed.apk",
-    "sha256": "eb5e1fee5e0c75023ad6b046633a9ad9a45c4e4d0fe4fd501671714dd99e7d54",
-    "sizeBytes": 7531763,
-    "notes": "Build 15.9: optional update notifications on launch and in background, plus in-app reminder; no forced updates. Preserves Build 15.8 Random Play, 15.7 Lyrics/BGV/Library Maintenance, and Safari Web Remote, instant number voice and Background Playback."
+    "versionCode": 58,
+    "versionName": "1.0.5.1 - TV Launcher Banner Hotfix (Build 15.9.1)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.1-beta.52/KantaOke-v1.0.5.1-build15.9.1-signed.apk",
+    "sha256": "d8949f4ccc4006a70298574264900634a5f8c2708c671ce7ced10120786dffd4",
+    "sizeBytes": 7531759,
+    "notes": "Build 15.9.1: TV launcher banner hotfix. Restores the approved gold KantaOke logo and wordmark without cropping. MIDI, SF2, Web Remote, queues, background playback, number voice and automatic update notifications are unchanged."
   }
 }
