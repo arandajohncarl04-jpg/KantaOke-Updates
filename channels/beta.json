@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "beta",
   "release": {
-    "versionCode": 56,
-    "versionName": "1.0.4.9 - Auto Random and Play Random (Build 15.8)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.4.9-beta.48/KantaOke-v1.0.4.9-build15.8-signed.apk",
-    "sha256": "2b9a20ab3b2cdd896bfc9ba4493034fa4b260b62e00038374ecc1362b39eae1f",
-    "sizeBytes": 7168169,
-    "notes": "Build 15.8: Play Random and Auto Random after reservations finish; preserves Build 15.7 Lyrics/BGV/Library Maintenance and Build 15.6 Safari Web Remote, instant number voice and Background Playback."
+    "versionCode": 57,
+    "versionName": "1.0.5.0 - Automatic OTA Update Notifications (Build 15.9)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.0-beta.50/KantaOke-v1.0.5.0-build15.9-signed.apk",
+    "sha256": "eb5e1fee5e0c75023ad6b046633a9ad9a45c4e4d0fe4fd501671714dd99e7d54",
+    "sizeBytes": 7531763,
+    "notes": "Build 15.9: optional update notifications on launch and in background, plus in-app reminder; no forced updates. Preserves Build 15.8 Random Play, 15.7 Lyrics/BGV/Library Maintenance, and Safari Web Remote, instant number voice and Background Playback."
   }
 }
