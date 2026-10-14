@@ -1,5 +1,12 @@
 {
   "schema": 1,
   "channel": "stable",
-  "release": null
+  "release": {
+    "versionCode": 60,
+    "versionName": "1.0.5.3 - Songbook and Picture BGV (Build 15.10.1)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.3-stable/KantaOke-v1.0.5.3-build15.10.1-signed.apk",
+    "sha256": "261768fad82aee5fb70a78d2ac57af2eecdd9f80f78359f55414842cabd3c5df",
+    "sizeBytes": 7612413,
+    "notes": "Stable Build 15.10.1: Songbook PDF/CSV, photos and video BGV with gentle zoom-out, Android 6 minimum, and CDG live key/tempo via existing controls. Android 6 device compatibility and CDG audio tuning require real-device testing."
+  }
 }
