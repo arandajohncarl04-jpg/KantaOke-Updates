@@ -3,5 +3,12 @@
   "app": "kantaoke-remote",
   "packageName": "dev.kantaoke.remote.v1047",
   "channel": "beta",
-  "release": null
+  "release": {
+    "versionCode": 17,
+    "versionName": "1.04.10",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/remote-v1.04.10-beta-r4/KantaOke-Remote-v1.04.10-vc17-beta-signed.apk",
+    "sha256": "e03ba782e5321ceeb138ffb270c233b5b63dd176838f09ca1288e670caf19a7e",
+    "sizeBytes": 1177404,
+    "notes": "KantaOke Remote v1.04.10 Beta: background heartbeat remains active while the app process runs, reducing disconnection on Recent Apps; saved pairing and foreground resume polling unchanged. Adds signed in-app update selection. Android may still terminate background apps."
+  }
 }
