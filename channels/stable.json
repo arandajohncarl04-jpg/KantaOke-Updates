@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "stable",
   "release": {
-    "versionCode": 61,
-    "versionName": "1.0.5.4 - TV D-pad Controller TEST (Build 15.10.2)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.4-stable/KantaOke-v1.0.5.4-build15.10.2-TV-DPAD-signed.apk",
-    "sha256": "30b8944c5f028474ed5864b3a1eae66698f7955e1658bd4d33ae704702371747",
-    "sizeBytes": 7612422,
-    "notes": "Stable Build 15.10.2: TV Library-to-on-screen-remote D-pad focus fix. RIGHT from Search/song list enters number pad; LEFT from controller edge returns to Library. CI signing validated; awaiting real-device testing."
+    "versionCode": 62,
+    "versionName": "1.0.5.5 - Soft Glass and Remote Sync (Build 15.10.3)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.5-stable-build15.10.3/KantaOke-MAIN-v1.0.5.5-build15.10.3-Stable-signed.apk",
+    "sha256": "5076a0c66498d8946539735674570a66205b6daa4ed151b38b012b6021d543be",
+    "sizeBytes": 7612410,
+    "notes": "KantaOke Main v1.0.5.5 Stable Build 15.10.3: Soft Glass Reserved Bar on portrait, landscape and TV; Main Settings and Remote Auto Random state sync; 25-second Remote client timeout grace; preserved Build 15.10.2 TV D-pad fix. Signed APK CI verified, awaiting real-device testing."
   }
 }
