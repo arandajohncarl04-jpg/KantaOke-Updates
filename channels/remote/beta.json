@@ -4,11 +4,11 @@
   "packageName": "dev.kantaoke.remote.v1047",
   "channel": "beta",
   "release": {
-    "versionCode": 17,
-    "versionName": "1.04.10",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/remote-v1.04.10-beta-r4/KantaOke-Remote-v1.04.10-vc17-beta-signed.apk",
-    "sha256": "e03ba782e5321ceeb138ffb270c233b5b63dd176838f09ca1288e670caf19a7e",
+    "versionCode": 19,
+    "versionName": "1.04.12",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/remote-v1.04.12-beta/KantaOke-Remote-v1.04.12-vc19-beta-signed.apk",
+    "sha256": "a13d9094270fb7579244321a28de5b6b4191c1d2c7854d6c3678be0d56f4e8c4",
     "sizeBytes": 1177404,
-    "notes": "KantaOke Remote v1.04.10 Beta: background heartbeat remains active while the app process runs, reducing disconnection on Recent Apps; saved pairing and foreground resume polling unchanged. Adds signed in-app update selection. Android may still terminate background apps."
+    "notes": "Remote v1.04.12 Beta (Build 19): compact Updates chip moved below LAN indicator; polished black/gold Update Center with optional six-hour auto-check on app open/resume, Beta by default. Existing pairing and controls preserved; signed download/install require confirmation. Real-device validation recommended."
   }
 }
