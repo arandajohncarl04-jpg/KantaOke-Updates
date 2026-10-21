@@ -4,11 +4,11 @@
   "packageName": "dev.kantaoke.remote.v1047",
   "channel": "beta",
   "release": {
-    "versionCode": 19,
-    "versionName": "1.04.12",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/remote-v1.04.12-beta/KantaOke-Remote-v1.04.12-vc19-beta-signed.apk",
-    "sha256": "a13d9094270fb7579244321a28de5b6b4191c1d2c7854d6c3678be0d56f4e8c4",
-    "sizeBytes": 1177404,
-    "notes": "Remote v1.04.12 Beta (Build 19): compact Updates chip moved below LAN indicator; polished black/gold Update Center with optional six-hour auto-check on app open/resume, Beta by default. Existing pairing and controls preserved; signed download/install require confirmation. Real-device validation recommended."
+    "versionCode": 20,
+    "versionName": "1.04.13",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/remote-v1.04.13-beta/KantaOke-Remote-v1.04.13-vc20-beta-signed.apk",
+    "sha256": "7ebba0838138dcf2da3544c6f647828a11e63e8450e4b226464043576b0c1cac",
+    "sizeBytes": 1181500,
+    "notes": "KantaOke Remote v1.04.13 Beta Build 20: Updates is integrated into pairing screen and Settings tab only; no floating header overlap in Song List/Queue/Remote/EQ. Six-hour opt-out auto-check, signed update downloads, LAN heartbeat and QR pairing preserved. Android device verification recommended."
   }
 }
