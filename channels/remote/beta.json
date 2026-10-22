@@ -4,11 +4,11 @@
   "packageName": "dev.kantaoke.remote.v1047",
   "channel": "beta",
   "release": {
-    "versionCode": 20,
-    "versionName": "1.04.13",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/remote-v1.04.13-beta/KantaOke-Remote-v1.04.13-vc20-beta-signed.apk",
-    "sha256": "7ebba0838138dcf2da3544c6f647828a11e63e8450e4b226464043576b0c1cac",
-    "sizeBytes": 1181500,
-    "notes": "KantaOke Remote v1.04.13 Beta Build 20: Updates is integrated into pairing screen and Settings tab only; no floating header overlap in Song List/Queue/Remote/EQ. Six-hour opt-out auto-check, signed update downloads, LAN heartbeat and QR pairing preserved. Android device verification recommended."
+    "versionCode": 21,
+    "versionName": "1.04.14",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/remote-v1.04.14-beta/KantaOke-Remote-v1.04.14-vc21-beta-signed.apk",
+    "sha256": "c75b983e6600a91c386a9204eeebf26e4b77a3111bce6f94a662f5e7d669c190",
+    "sizeBytes": 1185596,
+    "notes": "Refined UI: richer gold accents, soft metallic glow on the KantaOke Remote header, cleaner card outlines, sharper selected tabs and polished buttons across all Remote screens. Gold EQ slider highlights and corrected About version label. Pairing, playback, saved connection and signed updater remain unchanged. Beta Build 21."
   }
 }
