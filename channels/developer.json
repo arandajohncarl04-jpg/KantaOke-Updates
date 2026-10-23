@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "developer",
   "release": {
-    "versionCode": 65,
-    "versionName": "1.0.5.8 - Countdown Layout Fix (Build 15.10.5.1 DEV)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.8-dev-build15.10.5.1/KantaOke-MAIN-DEV-v1.0.5.8-build15.10.5.1-signed.apk",
-    "sha256": "647439d7980ce963307bb8099cbd8d0714d49caba719bd82ca3e0f060809f5a8",
-    "sizeBytes": 7628803,
-    "notes": "DEV TEST ONLY — Build 15.10.5.1: FIX — the intro 3-2-1 countdown is now a compact top-of-video gold badge instead of covering the early lyric preview. Song lyrics remain centered; highlighting is still MIDI-timed, and the score algorithm is unchanged. Includes the premium black-and-gold Score Studio interface and custom sounds from Build 15.10.5. Stable/Beta channels untouched."
+    "versionCode": 66,
+    "versionName": "1.0.5.9 - OTA Fresh-Check Fix (Build 15.10.5.2 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.9-dev-build15.10.5.2/KantaOke-MAIN-DEV-v1.0.5.9-build15.10.5.2-signed.apk",
+    "sha256": "c85069cbb1d1758e170998c2210ca49cfc049f4d041b993e2ffe00359a7d4cf8",
+    "sizeBytes": 7628798,
+    "notes": "DEV TEST ONLY — Build 15.10.5.2: OTA reliability fix — every update check uses a fresh cache-busting manifest URL and HTTPS no-cache headers to prevent stale Developer channel version detection. Includes Build 15.10.5.1 compact countdown above early MIDI lyrics, black-and-gold Score Studio, and custom score sounds/messages. MIDI-based sync and scoring calculations unchanged. Stable/Beta untouched."
   }
 }
