@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "developer",
   "release": {
-    "versionCode": 64,
-    "versionName": "1.0.5.7 - Score Studio UI (Build 15.10.5 DEV)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.7-dev-build15.10.5/KantaOke-MAIN-DEV-v1.0.5.7-build15.10.5-signed.apk",
-    "sha256": "caffd5e15dbc6f5625e1990a4766c060feabd15cf24b9f62f0a43e5c6071fe98",
-    "sizeBytes": 7628782,
-    "notes": "DEV TEST ONLY — Build 15.10.5: refreshed Score Studio interface with premium charcoal-and-gold cards, compact score-sound controls, highlighted audio source selection, live volume label, five editable score-message brackets, fixed Save/Close footer, and D-pad focus support. Retains early MIDI/KAR lyrics preview and custom MP3/WAV/OGG sound import from the previous Developer build. Scoring algorithm and Stable/Beta channels unchanged."
+    "versionCode": 65,
+    "versionName": "1.0.5.8 - Countdown Layout Fix (Build 15.10.5.1 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.8-dev-build15.10.5.1/KantaOke-MAIN-DEV-v1.0.5.8-build15.10.5.1-signed.apk",
+    "sha256": "647439d7980ce963307bb8099cbd8d0714d49caba719bd82ca3e0f060809f5a8",
+    "sizeBytes": 7628803,
+    "notes": "DEV TEST ONLY — Build 15.10.5.1: FIX — the intro 3-2-1 countdown is now a compact top-of-video gold badge instead of covering the early lyric preview. Song lyrics remain centered; highlighting is still MIDI-timed, and the score algorithm is unchanged. Includes the premium black-and-gold Score Studio interface and custom sounds from Build 15.10.5. Stable/Beta channels untouched."
   }
 }
