@@ -1,5 +1,12 @@
 {
   "schema": 1,
   "channel": "developer",
-  "release": null
+  "release": {
+    "versionCode": 63,
+    "versionName": "1.0.5.6 - Lyrics Preview and Score Customization (Build 15.10.4 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.6-dev-build15.10.4/KantaOke-MAIN-DEV-v1.0.5.6-build15.10.4-signed.apk",
+    "sha256": "90f36de2f3ab74fd3983812fa920719ad11731c3564219801429f0512d09eda1",
+    "sizeBytes": 7612425,
+    "notes": "DEV TEST ONLY — Build 15.10.4: early MIDI/KAR lyrics preview (MIDI markers still drive sync); custom score sound volume and MP3/WAV/OGG import; user-editable/randomized messages for five score brackets. Developer channel becomes manual-check-only with no auto reminders. Experimental owner QA build. Original scoring algorithm, Stable and Beta unchanged."
+  }
 }
