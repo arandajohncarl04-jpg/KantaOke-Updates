@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "developer",
   "release": {
-    "versionCode": 63,
-    "versionName": "1.0.5.6 - Lyrics Preview and Score Customization (Build 15.10.4 DEV)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.6-dev-build15.10.4/KantaOke-MAIN-DEV-v1.0.5.6-build15.10.4-signed.apk",
-    "sha256": "90f36de2f3ab74fd3983812fa920719ad11731c3564219801429f0512d09eda1",
-    "sizeBytes": 7612425,
-    "notes": "DEV TEST ONLY — Build 15.10.4: early MIDI/KAR lyrics preview (MIDI markers still drive sync); custom score sound volume and MP3/WAV/OGG import; user-editable/randomized messages for five score brackets. Developer channel becomes manual-check-only with no auto reminders. Experimental owner QA build. Original scoring algorithm, Stable and Beta unchanged."
+    "versionCode": 64,
+    "versionName": "1.0.5.7 - Score Studio UI (Build 15.10.5 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.7-dev-build15.10.5/KantaOke-MAIN-DEV-v1.0.5.7-build15.10.5-signed.apk",
+    "sha256": "caffd5e15dbc6f5625e1990a4766c060feabd15cf24b9f62f0a43e5c6071fe98",
+    "sizeBytes": 7628782,
+    "notes": "DEV TEST ONLY — Build 15.10.5: refreshed Score Studio interface with premium charcoal-and-gold cards, compact score-sound controls, highlighted audio source selection, live volume label, five editable score-message brackets, fixed Save/Close footer, and D-pad focus support. Retains early MIDI/KAR lyrics preview and custom MP3/WAV/OGG sound import from the previous Developer build. Scoring algorithm and Stable/Beta channels unchanged."
   }
 }
