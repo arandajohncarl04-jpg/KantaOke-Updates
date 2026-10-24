@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "beta",
   "release": {
-    "versionCode": 58,
-    "versionName": "1.0.5.1 - TV Launcher Banner Hotfix (Build 15.9.1)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.1-beta.52/KantaOke-v1.0.5.1-build15.9.1-signed.apk",
-    "sha256": "d8949f4ccc4006a70298574264900634a5f8c2708c671ce7ced10120786dffd4",
-    "sizeBytes": 7531759,
-    "notes": "Build 15.9.1: TV launcher banner hotfix. Restores the approved gold KantaOke logo and wordmark without cropping. MIDI, SF2, Web Remote, queues, background playback, number voice and automatic update notifications are unchanged."
+    "versionCode": 66,
+    "versionName": "1.0.5.9 - OTA Fresh-Check Fix (Build 15.10.5.2 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.9-dev-build15.10.5.2/KantaOke-MAIN-DEV-v1.0.5.9-build15.10.5.2-signed.apk",
+    "sha256": "c85069cbb1d1758e170998c2210ca49cfc049f4d041b993e2ffe00359a7d4cf8",
+    "sizeBytes": 7628798,
+    "notes": "BETA RELEASE — Build 15.10.5.2 (v1.0.5.9): Premium black-and-gold Score Studio with score-sound volume, custom MP3/WAV/OGG jingle import and preview, and editable messages by score bracket. Corrected 3-2-1 countdown position so it no longer covers lyrics; early lyrics remain a non-highlighted preview until their actual MIDI timing markers. OTA update checks now request a fresh manifest to avoid stale CDN responses. Preserves karaoke library/queue, MIDI-timed lyric highlighting, playback, and scoring calculations. Stable channel unchanged."
   }
 }
