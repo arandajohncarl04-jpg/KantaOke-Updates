@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "developer",
   "release": {
-    "versionCode": 66,
-    "versionName": "1.0.5.9 - OTA Fresh-Check Fix (Build 15.10.5.2 DEV)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.9-dev-build15.10.5.2/KantaOke-MAIN-DEV-v1.0.5.9-build15.10.5.2-signed.apk",
-    "sha256": "c85069cbb1d1758e170998c2210ca49cfc049f4d041b993e2ffe00359a7d4cf8",
-    "sizeBytes": 7628798,
-    "notes": "DEV TEST ONLY — Build 15.10.5.2: OTA reliability fix — every update check uses a fresh cache-busting manifest URL and HTTPS no-cache headers to prevent stale Developer channel version detection. Includes Build 15.10.5.1 compact countdown above early MIDI lyrics, black-and-gold Score Studio, and custom score sounds/messages. MIDI-based sync and scoring calculations unchanged. Stable/Beta untouched."
+    "versionCode": 67,
+    "versionName": "1.0.6.0 - Packed Library Foundation (Build 15.10.6 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.0-dev-build15.10.6/KantaOke-MAIN-DEV-v1.0.6.0-build15.10.6-signed.apk",
+    "sha256": "1c45f0eeeee33eb119a34c0d8dd4f86365b4241fd16e2c10f0ec3990c1be0fb9",
+    "sizeBytes": 7628789,
+    "notes": "DEV TEST ONLY — Build 15.10.6: Silent KISC v1 packed-library reader groundwork. Songs-folder scanner discovers external SQLite .koidx indices and .koblob segments; a requested record is extracted alone with SHA-256 validation into the existing BASSMIDI file-path loader. No packer bundled or UI changes. Legacy MIDI/KAR/ZIP playback, MIDI timing, lyrics, SoundFonts and scoring remain unchanged. Experimental: real-device testing required. Stable/Beta untouched."
   }
 }
