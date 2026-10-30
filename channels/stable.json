@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "stable",
   "release": {
-    "versionCode": 66,
-    "versionName": "1.0.5.9 - OTA Fresh-Check Fix (Build 15.10.5.2 DEV)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.5.9-stable-build15.10.5.2/KantaOke-MAIN-v1.0.5.9-build15.10.5.2-Stable-signed.apk",
-    "sha256": "c85069cbb1d1758e170998c2210ca49cfc049f4d041b993e2ffe00359a7d4cf8",
-    "sizeBytes": 7628798,
-    "notes": "STABLE — KantaOke MAIN v1.0.5.9 Build 15.10.5.2. Promoted byte-for-byte from the verified Score Studio Beta vc66: refined black-and-gold Score Studio, independent score sound volume, MP3/WAV/OGG custom score jingle import and preview, editable performance messages per score bracket, lyric preview with non-overlapping 3-2-1 countdown and MIDI-event-driven highlighting, and fresh OTA update checks. Existing scoring algorithm, MIDI timing, queue and song library unchanged. Internal APK version text still says DEV because the identical signed Beta binary was promoted; this Stable channel entry is intentional. Does not include experimental KISC packed-library support from DEV vc67."
+    "versionCode": 68,
+    "versionName": "1.0.6.1 - Interlude Lyrics Look-Ahead (Build 15.10.7 Stable)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.1-stable-build15.10.7/KantaOke-MAIN-v1.0.6.1-build15.10.7-Stable-signed.apk",
+    "sha256": "b47e116533a807ef5560ba510d9c9962fb9af6e8d49f372efacde823542e73b0",
+    "sizeBytes": 7628813,
+    "notes": "STABLE — KantaOke MAIN v1.0.6.1 Build 15.10.7. Based directly on v1.0.5.9 Build 15.10.5.2 Stable, with NEW 3-2-1 interlude lyric look-ahead from existing MIDI/KAR timeline; upcoming lyric is visible before vocals resume, without early highlight, seeking, or tempo changes. Fix restores normal lyric lanes when an interlude ends. Existing premium Score Studio, custom score sound/messages, 3-2-1 intro countdown position, OTA fresh manifest checks, playback and library preserved. No experimental KISC packed-library changes from Developer vc67. Android versionCode 68 upgrades from Stable vc66 and Developer vc67. Signed CI build; device QA recommended."
   }
 }
