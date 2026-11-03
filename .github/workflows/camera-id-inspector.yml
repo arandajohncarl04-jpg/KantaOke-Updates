@@ -1,0 +1,36 @@
+name: Build Camera ID Inspector APK
+on:
+  push:
+    branches: [camera-id-inspector-build]
+    paths:
+      - '.github/workflows/camera-id-inspector.yml'
+      - '.camera-inspector/**'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: android-actions/setup-android@v3
+      - name: Install SDK
+        run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.9'
+      - name: Unpack source
+        run: unzip -q .camera-inspector/CameraIDInspector_Android_Project.zip -d camera-inspector-worktree
+      - name: Build installable debug APK
+        run: gradle --no-daemon -p camera-inspector-worktree :app:assembleDebug
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: CameraIDInspector-debug-APK
+          path: camera-inspector-worktree/app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
