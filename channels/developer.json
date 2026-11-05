@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "developer",
   "release": {
-    "versionCode": 70,
-    "versionName": "1.0.6.3 - Smart Melody Detection (Build 15.10.9 DEV)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.3-dev-build15.10.9/KantaOke-MAIN-DEV-v1.0.6.3-build15.10.9-signed.apk",
-    "sha256": "d28712dca7edc74fe2afa425042c5bf5966e6c7d26e54b33d4fd972b0c0481ab",
-    "sizeBytes": 7628803,
-    "notes": "DEV TEST ONLY — Build 15.10.9: Smart Melody Detection v2. AUTO reads MIDI guide/vocal track names and lyric-aligned note timing without favoring Channel 4, declines uncertain guesses, and avoids percussion auto-selection. Per-song manual CH 1-16 override via Controls > Melody Channel or long-press MELODY; resets old channel mix on switch. Retains Build 15.10.8 rotation-safe I UNDERSTAND screen, Stable 15.10.7 interlude lyric look-ahead, scoring and remote/queue behavior. No change to lyric timing or MIDI tempo. Older experimental KISC pack reader excluded. Real-device QA needed. Stable/Beta untouched."
+    "versionCode": 71,
+    "versionName": "1.0.6.4 - Melody UI Polish (Build 15.10.10 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.4-dev-build15.10.10/KantaOke-MAIN-DEV-v1.0.6.4-build15.10.10-signed.apk",
+    "sha256": "2e17b29f3df7becd881365aa234a227540ae52311badd73bb4498211fe623a9a",
+    "sizeBytes": 7628791,
+    "notes": "DEV TEST ONLY — Build 15.10.10: Refined Melody Channel panel to match KantaOke black-and-gold UI. Premium header and song label, highlighted AUTO detection, two-column CH 01-16 selector, used-channel/drums indicators, selected state, scrollable small-screen layout and TV D-pad focus. Existing per-song override, smart detection and level control are unchanged. Carries forward Build 15.10.9 Smart Melody v2, Build 15.10.8 disclaimer rotation fix and Stable 15.10.7 lyric look-ahead. No MIDI/lyrics/scoring/remote logic changes. Real-device QA needed; Stable/Beta untouched."
   }
 }
