@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "developer",
   "release": {
-    "versionCode": 69,
-    "versionName": "1.0.6.2 - Disclaimer Rotation Fix (Build 15.10.8 DEV)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.2-dev-build15.10.8/KantaOke-MAIN-DEV-v1.0.6.2-build15.10.8-signed.apk",
-    "sha256": "7cec9ca7b42bb0eced3ada9863abbfd8b70d9bc76e27e2ffbdfc90c96782f236",
-    "sizeBytes": 7628797,
-    "notes": "DEV TEST ONLY — Build 15.10.8: Rotation-safe disclaimer screen. The I UNDERSTAND & BEGIN button stays accessible on small landscape phone screens, with scrollable branding and notice and responsive card sizing. Based on v1.0.6.1 Build 15.10.7 Stable (vc68); its MIDI interlude lyric look-ahead is retained. Experimental KISC packed-library reader from older Developer vc67 is not included in this stable-based DEV build. No changes to MIDI timing, playback, remote connection, queue, scoring or OTA client. Device QA required. Stable/Beta untouched."
+    "versionCode": 70,
+    "versionName": "1.0.6.3 - Smart Melody Detection (Build 15.10.9 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.3-dev-build15.10.9/KantaOke-MAIN-DEV-v1.0.6.3-build15.10.9-signed.apk",
+    "sha256": "d28712dca7edc74fe2afa425042c5bf5966e6c7d26e54b33d4fd972b0c0481ab",
+    "sizeBytes": 7628803,
+    "notes": "DEV TEST ONLY — Build 15.10.9: Smart Melody Detection v2. AUTO reads MIDI guide/vocal track names and lyric-aligned note timing without favoring Channel 4, declines uncertain guesses, and avoids percussion auto-selection. Per-song manual CH 1-16 override via Controls > Melody Channel or long-press MELODY; resets old channel mix on switch. Retains Build 15.10.8 rotation-safe I UNDERSTAND screen, Stable 15.10.7 interlude lyric look-ahead, scoring and remote/queue behavior. No change to lyric timing or MIDI tempo. Older experimental KISC pack reader excluded. Real-device QA needed. Stable/Beta untouched."
   }
 }
