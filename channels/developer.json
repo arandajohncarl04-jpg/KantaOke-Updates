@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "developer",
   "release": {
-    "versionCode": 73,
-    "versionName": "1.0.6.6 - Performance Pass 1 (Build 15.10.12 DEV)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.6-dev-build15.10.12/KantaOke-MAIN-DEV-v1.0.6.6-build15.10.12-signed.apk",
-    "sha256": "c73fbb08220f679e74a1765ce2c827f2d1be41c05488e6e423f4227d71b298ea",
-    "sizeBytes": 7628791,
-    "notes": "DEV TEST ONLY — Build 15.10.12 Performance Pass 1. Optimized Library browsing with a small 3-second bounded SQLite count cache for page changes, invalidated on local song updates/scans. Skips obsolete searches before SQL in both the full Library and floating song list. Built on Stable Build 15.10.11 (vc72) with Smart Melody, black-gold UI, disclaimer rotation fix and lyric look-ahead retained. No MIDI synthesis, SoundFont, tempo/lyric events, scoring, queue ordering or remote protocol changes. Performance gains are not yet benchmarked; device QA required. Experimental packed library remains excluded. Stable/Beta untouched."
+    "versionCode": 74,
+    "versionName": "1.0.6.7 - MIDI Load Profiling (Build 15.10.13 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.7-dev-build15.10.13/KantaOke-MAIN-DEV-v1.0.6.7-build15.10.13-signed.apk",
+    "sha256": "7bfa2e667049f631b3ffa869f491d45eb717388d9bbd4bc90f0650ea04a38ed1",
+    "sizeBytes": 7628798,
+    "notes": "DEV TEST ONLY — Build 15.10.13 MIDI/SoundFont Profiling (vc74). Silent load diagnostics: records stage timings (MIDI file preparation, SoundFont init/reuse, MIDI stream creation, lyric timeline, melody analysis, ready/play command), total duration and Java/native allocated heap snapshots. Controls > Performance Diagnostics displays the last 24 song loads, copy/clear locally. No song titles or paths collected, no telemetry. DEV build suppresses automatic OTA banners, update notifications and scheduled update checks; manual check under Software Updates > Developer works as usual. Phase 1 library optimization is retained. MIDI synthesis, lyric/tempo event mapping, scoring, melody control, queue and remote protocol unchanged. Performance improvement not yet claimed; device testing required. Beta/Stable untouched."
   }
 }
