@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "developer",
   "release": {
-    "versionCode": 74,
-    "versionName": "1.0.6.7 - MIDI Load Profiling (Build 15.10.13 DEV)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.7-dev-build15.10.13/KantaOke-MAIN-DEV-v1.0.6.7-build15.10.13-signed.apk",
-    "sha256": "7bfa2e667049f631b3ffa869f491d45eb717388d9bbd4bc90f0650ea04a38ed1",
-    "sizeBytes": 7628798,
-    "notes": "DEV TEST ONLY — Build 15.10.13 MIDI/SoundFont Profiling (vc74). Silent load diagnostics: records stage timings (MIDI file preparation, SoundFont init/reuse, MIDI stream creation, lyric timeline, melody analysis, ready/play command), total duration and Java/native allocated heap snapshots. Controls > Performance Diagnostics displays the last 24 song loads, copy/clear locally. No song titles or paths collected, no telemetry. DEV build suppresses automatic OTA banners, update notifications and scheduled update checks; manual check under Software Updates > Developer works as usual. Phase 1 library optimization is retained. MIDI synthesis, lyric/tempo event mapping, scoring, melody control, queue and remote protocol unchanged. Performance improvement not yet claimed; device testing required. Beta/Stable untouched."
+    "versionCode": 75,
+    "versionName": "1.0.6.8 - Live Crash Logger (Build 15.10.14 DEV)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.8-dev-build15.10.14/KantaOke-MAIN-DEV-v1.0.6.8-build15.10.14-signed.apk",
+    "sha256": "0e47591503d376df60e9a1ae79cdc45a224a709f2b3d47fd890a7b6428ce5ef4",
+    "sizeBytes": 7628821,
+    "notes": "DEV TEST ONLY — Build 15.10.14 Live Crash Logger (vc75). Replaces the temporary MIDI/SoundFont profiler with an app-local crash logger in Settings. Saves uncaught Java/Kotlin crashes before Android terminates the app and logs handled playback errors. Android 11+ may add native crash/ANR exit reasons on next app launch; native stack traces are not guaranteed. Black-and-gold live-refresh viewer with Test, Copy, Clear, Close; up to 48 entries stored locally, no automatic upload. Silent test mode: no automatic update banners or notifications, manual Developer OTA checks work. Phase 1 library optimization, MIDI lyrics, melody, SoundFont playback, scoring, remote and queue retained. Beta/Stable untouched."
   }
 }
