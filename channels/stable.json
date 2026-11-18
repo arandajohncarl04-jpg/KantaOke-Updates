@@ -2,11 +2,11 @@
   "schema": 1,
   "channel": "stable",
   "release": {
-    "versionCode": 72,
-    "versionName": "1.0.6.5 - Melody Channel Update (Build 15.10.11 Stable)",
-    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.5-stable-build15.10.11/KantaOke-MAIN-v1.0.6.5-build15.10.11-Stable-signed.apk",
-    "sha256": "bddae23a52e9fe5fbeee96643b50faafb43054dd75e1a5ff8bba245d5fdaf91c",
-    "sizeBytes": 7628799,
-    "notes": "What's new\n- Melody channel detection now works better with different MIDI files.\n- Choose a melody channel yourself when AUTO doesn't get it right. Your choice is saved for that song.\n- The Melody Channel menu now matches KantaOke's black-and-gold look.\n- Fixed the I Understand button disappearing when you rotate your phone."
+    "versionCode": 76,
+    "versionName": "1.0.6.9 - Crash Log & Library Improvements (Build 15.10.15 Stable)",
+    "apkUrl": "https://github.com/arandajohncarl04-jpg/KantaOke-Updates/releases/download/v1.0.6.9-stable-build15.10.15/KantaOke-MAIN-v1.0.6.9-build15.10.15-Stable-signed.apk",
+    "sha256": "aff1cbb7f5acfc51862cb0b02a3d47f4983654f70e6eefacd063e033ba55546e",
+    "sizeBytes": 7628852,
+    "notes": "What's new\n- Added a crash log in Settings so it's easier to check what went wrong.\n- Crash reports stay on your device. You can view, copy, or clear them anytime.\n- Made song searches and library page switching a little lighter."
   }
 }
